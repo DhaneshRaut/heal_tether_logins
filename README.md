@@ -1,6 +1,6 @@
 # flutter_application_remote_internship
 
-A new Flutter project.
+A new Flutter project. Frontend based on flutter framework . Designed a login screen .
 
 ## Getting Started
 
